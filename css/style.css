@@ -299,6 +299,7 @@ h1 {
     height: 400px;
     margin: 0 auto;
     text-align: center;
+    font-style: italic;
 }
 .time {
     background-color: #f0f0f0;
