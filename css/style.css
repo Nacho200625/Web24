@@ -5,7 +5,7 @@ body {
 
 * {
     box-sizing: border-box;
-    color: rgb(18, 0, 110);
+    color: rgb(255, 255, 255);
 }
 
 /* For desktop: */
@@ -347,14 +347,15 @@ color: #287370;
 .col-3{
     display: block;
     width: 33,33%;
-    float: left;
+
+    padding: 4px;
    
 }
 .imgm{
 
-    width: 80%;
-    margin-bottom: 10%;
-    margin-left:10%;
+  
+    width: 280px;
+    
 }
 .text-center{
     text-align: center;
