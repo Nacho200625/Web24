@@ -138,7 +138,7 @@ nav li a {
 }
 
 nav li:hover {
-    background-color: rgb(225, 245, 253);
+    background-color:;
 }
 
 .text-right {
@@ -337,7 +337,7 @@ color: #287370;
     font-size: 16px;
 }
 .col-3{
-    
+    display: block;
     width: 33,33%;
     float: left;
     padding: 6px;
