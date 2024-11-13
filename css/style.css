@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    background-color: rgb(117, 255, 243);
+    background-color: rgb(0, 88, 252);
 }
 
 * {
@@ -105,7 +105,7 @@ body {
 }
 
 .shadow {
-    box-shadow: 0 0 20px gainsboro;
+    box-shadow: 0 0 20px    rgb(254, 144, 0);
     border-radius: 10px;
 }
 
@@ -135,7 +135,7 @@ nav li {
 }
 
 nav li a {
-    color: rgb(18, 0, 110);
+    color: rgb(254, 144, 0);
 }
 
 nav li:hover {
@@ -167,7 +167,7 @@ a {
 }
 
 .bg-azul-o {
-    background-color: rgb(255, 93, 85);
+    background-color: rgb(254, 144, 0);
 }
 
 .bg-azul-c {
@@ -300,7 +300,7 @@ h1 {
     height: 400px;
     margin: 0 auto;
     text-align: center;
-  
+background-color: black;
 }
 .time {
     background-color: #f0f0f0;
@@ -308,6 +308,13 @@ h1 {
     width: 1px;
     margin: 0 auto;
     font-style: italic;
+}
+.time2{
+    background-color: #f0f0f0;
+
+    width: 1px;
+    margin: 0 auto;
+  
 }
 
 
@@ -341,7 +348,13 @@ color: #287370;
     display: block;
     width: 33,33%;
     float: left;
-    padding: 6px;
+   
+}
+.imgm{
+
+    width: 80%;
+    margin-bottom: 10%;
+    margin-left:10%;
 }
 .text-center{
     text-align: center;
