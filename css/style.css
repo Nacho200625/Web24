@@ -138,9 +138,7 @@ nav li a {
     color: rgb(254, 144, 0);
 }
 
-nav li:hover {
-    background-color:;
-}
+
 
 .text-right {
     text-align: right;
@@ -300,7 +298,8 @@ h1 {
     height: 400px;
     margin: 0 auto;
     text-align: center;
-background-color: black;
+
+background-color: rgb(255, 255, 255);
 }
 .time {
     background-color: #f0f0f0;
@@ -323,16 +322,16 @@ background-color: black;
     font-weight: bold;
 }
 
-.lsmg { background-color: #64b4ef; }
-.ende { background-color: #96dd92; }
-.sisi { background-color: #0080ff; }
-.prog{ background-color: #d2d26f; }
-.bdd { background-color: #63ac93; }
-.ipcg{background-color:#06db04 ;}
-.pimd{background-color: #bd7879;}
-.dasp{background-color: #ffa265;}
-.ipe{background-color: #eef0c9;}
-.sasp{background-color: #d1d3ff;}
+.lsmg { background-color: #64b4ef;  -webkit-text-fill-color: black;}
+.ende { background-color: #96dd92;  -webkit-text-fill-color: black;}
+.sisi { background-color: #0080ff;  -webkit-text-fill-color: black;}
+.prog{ background-color: #d2d26f;  -webkit-text-fill-color: black;}
+.bdd { background-color: #63ac93;  -webkit-text-fill-color: black;}
+.ipcg{background-color:#06db04 ;  -webkit-text-fill-color: black;}
+.pimd{background-color: #bd7879;  -webkit-text-fill-color: black;}
+.dasp{background-color: #ffa265;  -webkit-text-fill-color: black;}
+.ipe{background-color: #eef0c9;  -webkit-text-fill-color: black;}
+.sasp{background-color: #d1d3ff;  -webkit-text-fill-color: black;}
 time{background-color: #efefef;
 color: #287370;
 }
